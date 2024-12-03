@@ -1,7 +1,14 @@
 # Aluraflix_
 
-Você Pode acessar o meu aluraflix clicando no link abaixo.
-Obrigado!!!
+Seguindo a proposta do curso do alura, crei o "aluraflix" versão animes.
 
+
+Página focada para a exibição de animes em geral.
+
+
+Ela pode ser acessada clicando no link abaixo.
+
+
+Obrigado!!!
 
 https://codingloria.github.io/aluraFlix/
