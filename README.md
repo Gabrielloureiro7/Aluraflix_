@@ -1,6 +1,8 @@
 # Aluraflix_
 
-Seguindo a proposta do curso do alura, crei o "aluraflix" versão animes.
+Seguindo a proposta do curso do alura: https://cursos.alura.com.br/course/pagina-web-catalogo-videos-html-css
+
+ Crei o "aluraflix" versão animes.
 
 
 Página focada para a exibição de animes em geral.
